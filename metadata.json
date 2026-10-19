@@ -1,0 +1,6 @@
+{
+  "name": "مُنجز - إدارة المهام اليومية الذكية",
+  "description": "تطبيق ويب سريع وبسيط لإدارة المهام اليومية مع تنبيهات ذكية، مؤقت التركيز، وتحليل الأولويات بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
